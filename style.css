@@ -2,5 +2,15 @@
 
 :root{
     --cor-de-fundo: #000000;
-    --verde: 
+    --verde: #26ff00;
+    --branco:#ffffff;
+    --botao-ativo: #10770d;
+    --botao-inativo: rgba(82, 81, 0.5);
+    --texto-fundo: rgb(33, 37, 29);
+}
+
+body{
+    background-color: #000000;
+    color: var(--branco);
+    font-family: cursive;
 }
