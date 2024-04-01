@@ -38,5 +38,35 @@ body{
 
 .botao{
     font-family:Crakra Petch" ; sans-serif;
-    ba
+    background-color: var(var(--botao-inativo));
+    color: var(--branco);
+    display:flex;
+    justify-content: center;
+    padding: lem;
+    font: size 18px;
+    align-items: center;
+    widh: 100%
+    border: bottom 4px; solid var(--botao-ativo);
+    border-left: 4px solid var(--botao-ativo);
+    border-right: 4px solid var(--botao-ativo);
+    border-top:none;
+
 }
+.botoes: :first-child{
+    boder-radius: 40px 40px 0 0;
+}
+
+.botoes}{
+    display:block;
+}
+@media  screen and (min waidth 768px) {
+    .botoes{
+        display: flex;
+    }
+    .botao
+    
+}
+    
+    
+
+
